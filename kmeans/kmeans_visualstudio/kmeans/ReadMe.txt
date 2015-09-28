@@ -18,3 +18,6 @@ Steps to execute the code:
    Another file Distrotion.txt is generated. It contains the distortion of the current codebook at each run of the kmeans algorithm.
    
 4. Open the solution file, run F5 to build and run. The output file can be seen in the Codebook.txt, Logfile.txt and the distortion in the Distortion.txt
+
+
+

@@ -13,7 +13,7 @@ Steps to execute the code:
 3. Steps to run: Open the solution file, run F5 to build and run.
 
 4. Outputs: At every stage of the iteration in the LBG algorithm when moving from a particular codebook size to its double a file is generated.
-and we move from  1 -> 2 -> 4 -> 8 -> 16 -> 32. So, there are 6 files - Logfile.txt, Distortion.txt, Codebook.txt at every stage.
+and we move from  1 -> 2 -> 4 -> 8 -> 16 -> 32. So, there are 6 files of Logfile.txt, Distortion.txt, Codebook.txt at every stage.
 
 Logfile.txt -  contains various intermediate outputs like no. of vectors that are allotted to each cluster and the distortion in every iteration.
 Distortion.txt - contains the distortion at every stage in t

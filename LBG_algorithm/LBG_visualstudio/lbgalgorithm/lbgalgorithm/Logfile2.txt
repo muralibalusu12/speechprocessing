@@ -1,0 +1,52 @@
+Iteration : 1
+cluster 1 : 7873
+cluster 2 : 7347
+distortion : 11.1784
+Iteration : 2
+cluster 1 : 8676
+cluster 2 : 6544
+distortion : 10.7288
+Iteration : 3
+cluster 1 : 9077
+cluster 2 : 6143
+distortion : 10.5588
+Iteration : 4
+cluster 1 : 9358
+cluster 2 : 5862
+distortion : 10.4286
+Iteration : 5
+cluster 1 : 9737
+cluster 2 : 5483
+distortion : 10.2568
+Iteration : 6
+cluster 1 : 9877
+cluster 2 : 5343
+distortion : 10.1814
+Iteration : 7
+cluster 1 : 9792
+cluster 2 : 5428
+distortion : 10.1448
+Iteration : 8
+cluster 1 : 9576
+cluster 2 : 5644
+distortion : 10.1177
+Iteration : 9
+cluster 1 : 9277
+cluster 2 : 5943
+distortion : 10.0861
+Iteration : 10
+cluster 1 : 9005
+cluster 2 : 6215
+distortion : 10.0566
+Iteration : 11
+cluster 1 : 8857
+cluster 2 : 6363
+distortion : 10.045
+Iteration : 12
+cluster 1 : 8808
+cluster 2 : 6412
+distortion : 10.0422
+Iteration : 13
+cluster 1 : 8790
+cluster 2 : 6430
+distortion : 10.0414

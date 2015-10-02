@@ -1,0 +1,270 @@
+Iteration : 1
+cluster 1 : 678
+cluster 2 : 549
+cluster 3 : 2745
+cluster 4 : 1197
+cluster 5 : 740
+cluster 6 : 858
+cluster 7 : 1292
+cluster 8 : 516
+cluster 9 : 496
+cluster 10 : 506
+cluster 11 : 1960
+cluster 12 : 769
+cluster 13 : 705
+cluster 14 : 721
+cluster 15 : 952
+cluster 16 : 536
+distortion : 4.26358
+Iteration : 2
+cluster 1 : 671
+cluster 2 : 493
+cluster 3 : 3292
+cluster 4 : 1177
+cluster 5 : 836
+cluster 6 : 826
+cluster 7 : 1479
+cluster 8 : 528
+cluster 9 : 502
+cluster 10 : 543
+cluster 11 : 1466
+cluster 12 : 738
+cluster 13 : 715
+cluster 14 : 689
+cluster 15 : 732
+cluster 16 : 533
+distortion : 3.69517
+Iteration : 3
+cluster 1 : 688
+cluster 2 : 474
+cluster 3 : 3648
+cluster 4 : 1020
+cluster 5 : 923
+cluster 6 : 860
+cluster 7 : 1497
+cluster 8 : 549
+cluster 9 : 490
+cluster 10 : 544
+cluster 11 : 1121
+cluster 12 : 1003
+cluster 13 : 633
+cluster 14 : 595
+cluster 15 : 658
+cluster 16 : 517
+distortion : 3.47143
+Iteration : 4
+cluster 1 : 718
+cluster 2 : 485
+cluster 3 : 3725
+cluster 4 : 1014
+cluster 5 : 967
+cluster 6 : 911
+cluster 7 : 1510
+cluster 8 : 573
+cluster 9 : 463
+cluster 10 : 541
+cluster 11 : 1064
+cluster 12 : 1066
+cluster 13 : 576
+cluster 14 : 500
+cluster 15 : 608
+cluster 16 : 499
+distortion : 3.43811
+Iteration : 5
+cluster 1 : 752
+cluster 2 : 496
+cluster 3 : 3735
+cluster 4 : 1008
+cluster 5 : 999
+cluster 6 : 937
+cluster 7 : 1507
+cluster 8 : 601
+cluster 9 : 428
+cluster 10 : 553
+cluster 11 : 1046
+cluster 12 : 1077
+cluster 13 : 547
+cluster 14 : 456
+cluster 15 : 599
+cluster 16 : 479
+distortion : 3.4305
+Iteration : 6
+cluster 1 : 781
+cluster 2 : 501
+cluster 3 : 3740
+cluster 4 : 1000
+cluster 5 : 1016
+cluster 6 : 958
+cluster 7 : 1494
+cluster 8 : 624
+cluster 9 : 400
+cluster 10 : 548
+cluster 11 : 1042
+cluster 12 : 1082
+cluster 13 : 532
+cluster 14 : 437
+cluster 15 : 599
+cluster 16 : 466
+distortion : 3.42664
+Iteration : 7
+cluster 1 : 812
+cluster 2 : 502
+cluster 3 : 3747
+cluster 4 : 995
+cluster 5 : 1018
+cluster 6 : 980
+cluster 7 : 1469
+cluster 8 : 644
+cluster 9 : 371
+cluster 10 : 542
+cluster 11 : 1052
+cluster 12 : 1088
+cluster 13 : 532
+cluster 14 : 418
+cluster 15 : 599
+cluster 16 : 451
+distortion : 3.42373
+Iteration : 8
+cluster 1 : 832
+cluster 2 : 504
+cluster 3 : 3749
+cluster 4 : 993
+cluster 5 : 1013
+cluster 6 : 992
+cluster 7 : 1443
+cluster 8 : 659
+cluster 9 : 355
+cluster 10 : 534
+cluster 11 : 1084
+cluster 12 : 1084
+cluster 13 : 530
+cluster 14 : 410
+cluster 15 : 599
+cluster 16 : 439
+distortion : 3.4205
+Iteration : 9
+cluster 1 : 852
+cluster 2 : 503
+cluster 3 : 3746
+cluster 4 : 991
+cluster 5 : 1012
+cluster 6 : 993
+cluster 7 : 1407
+cluster 8 : 671
+cluster 9 : 336
+cluster 10 : 531
+cluster 11 : 1134
+cluster 12 : 1074
+cluster 13 : 529
+cluster 14 : 413
+cluster 15 : 598
+cluster 16 : 430
+distortion : 3.41591
+Iteration : 10
+cluster 1 : 876
+cluster 2 : 502
+cluster 3 : 3747
+cluster 4 : 990
+cluster 5 : 1013
+cluster 6 : 985
+cluster 7 : 1309
+cluster 8 : 679
+cluster 9 : 314
+cluster 10 : 528
+cluster 11 : 1242
+cluster 12 : 1063
+cluster 13 : 529
+cluster 14 : 424
+cluster 15 : 597
+cluster 16 : 422
+distortion : 3.39767
+Iteration : 11
+cluster 1 : 907
+cluster 2 : 505
+cluster 3 : 3758
+cluster 4 : 990
+cluster 5 : 1010
+cluster 6 : 970
+cluster 7 : 1172
+cluster 8 : 685
+cluster 9 : 285
+cluster 10 : 524
+cluster 11 : 1397
+cluster 12 : 1039
+cluster 13 : 528
+cluster 14 : 438
+cluster 15 : 596
+cluster 16 : 416
+distortion : 3.34857
+Iteration : 12
+cluster 1 : 938
+cluster 2 : 506
+cluster 3 : 3791
+cluster 4 : 990
+cluster 5 : 1002
+cluster 6 : 964
+cluster 7 : 1137
+cluster 8 : 692
+cluster 9 : 258
+cluster 10 : 521
+cluster 11 : 1407
+cluster 12 : 1035
+cluster 13 : 525
+cluster 14 : 452
+cluster 15 : 593
+cluster 16 : 409
+distortion : 3.33078
+Iteration : 13
+cluster 1 : 967
+cluster 2 : 509
+cluster 3 : 3808
+cluster 4 : 990
+cluster 5 : 999
+cluster 6 : 962
+cluster 7 : 1137
+cluster 8 : 700
+cluster 9 : 233
+cluster 10 : 515
+cluster 11 : 1395
+cluster 12 : 1027
+cluster 13 : 525
+cluster 14 : 460
+cluster 15 : 592
+cluster 16 : 401
+distortion : 3.32671
+Iteration : 14
+cluster 1 : 989
+cluster 2 : 511
+cluster 3 : 3813
+cluster 4 : 990
+cluster 5 : 999
+cluster 6 : 966
+cluster 7 : 1137
+cluster 8 : 707
+cluster 9 : 212
+cluster 10 : 506
+cluster 11 : 1396
+cluster 12 : 1016
+cluster 13 : 526
+cluster 14 : 466
+cluster 15 : 592
+cluster 16 : 394
+distortion : 3.32407
+Iteration : 15
+cluster 1 : 998
+cluster 2 : 512
+cluster 3 : 3814
+cluster 4 : 989
+cluster 5 : 998
+cluster 6 : 965
+cluster 7 : 1137
+cluster 8 : 708
+cluster 9 : 205
+cluster 10 : 500
+cluster 11 : 1396
+cluster 12 : 1014
+cluster 13 : 529
+cluster 14 : 469
+cluster 15 : 592
+cluster 16 : 394
+distortion : 3.32324

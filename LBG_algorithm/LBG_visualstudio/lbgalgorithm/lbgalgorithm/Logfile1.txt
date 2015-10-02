@@ -1,0 +1,3 @@
+Iteration : 1 
+cluster 1 : 15220
+Distortion : 12.7064

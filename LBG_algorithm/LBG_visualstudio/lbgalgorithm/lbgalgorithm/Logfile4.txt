@@ -1,0 +1,120 @@
+Iteration : 1
+cluster 1 : 920
+cluster 2 : 1462
+cluster 3 : 3713
+cluster 4 : 1622
+cluster 5 : 718
+cluster 6 : 1386
+cluster 7 : 3572
+cluster 8 : 1827
+distortion : 6.47575
+Iteration : 2
+cluster 1 : 1037
+cluster 2 : 1398
+cluster 3 : 4341
+cluster 4 : 1541
+cluster 5 : 683
+cluster 6 : 1409
+cluster 7 : 3060
+cluster 8 : 1751
+distortion : 5.85592
+Iteration : 3
+cluster 1 : 1107
+cluster 2 : 1310
+cluster 3 : 4723
+cluster 4 : 1491
+cluster 5 : 719
+cluster 6 : 1399
+cluster 7 : 3057
+cluster 8 : 1414
+distortion : 5.40899
+Iteration : 4
+cluster 1 : 1145
+cluster 2 : 1196
+cluster 3 : 4898
+cluster 4 : 1477
+cluster 5 : 726
+cluster 6 : 1488
+cluster 7 : 3046
+cluster 8 : 1244
+distortion : 5.22117
+Iteration : 5
+cluster 1 : 1158
+cluster 2 : 1101
+cluster 3 : 5040
+cluster 4 : 1517
+cluster 5 : 780
+cluster 6 : 1552
+cluster 7 : 2906
+cluster 8 : 1166
+distortion : 5.17943
+Iteration : 6
+cluster 1 : 1161
+cluster 2 : 1038
+cluster 3 : 5071
+cluster 4 : 1565
+cluster 5 : 937
+cluster 6 : 1562
+cluster 7 : 2759
+cluster 8 : 1127
+distortion : 5.13723
+Iteration : 7
+cluster 1 : 1153
+cluster 2 : 1003
+cluster 3 : 4893
+cluster 4 : 1645
+cluster 5 : 1290
+cluster 6 : 1545
+cluster 7 : 2591
+cluster 8 : 1100
+distortion : 5.03985
+Iteration : 8
+cluster 1 : 1148
+cluster 2 : 1007
+cluster 3 : 4787
+cluster 4 : 1745
+cluster 5 : 1450
+cluster 6 : 1551
+cluster 7 : 2452
+cluster 8 : 1080
+distortion : 4.975
+Iteration : 9
+cluster 1 : 1155
+cluster 2 : 1021
+cluster 3 : 4779
+cluster 4 : 1837
+cluster 5 : 1438
+cluster 6 : 1574
+cluster 7 : 2345
+cluster 8 : 1071
+distortion : 4.95625
+Iteration : 10
+cluster 1 : 1158
+cluster 2 : 1034
+cluster 3 : 4755
+cluster 4 : 1900
+cluster 5 : 1427
+cluster 6 : 1577
+cluster 7 : 2306
+cluster 8 : 1063
+distortion : 4.94933
+Iteration : 11
+cluster 1 : 1161
+cluster 2 : 1044
+cluster 3 : 4743
+cluster 4 : 1938
+cluster 5 : 1401
+cluster 6 : 1582
+cluster 7 : 2287
+cluster 8 : 1064
+distortion : 4.94683
+Iteration : 12
+cluster 1 : 1164
+cluster 2 : 1055
+cluster 3 : 4733
+cluster 4 : 1953
+cluster 5 : 1387
+cluster 6 : 1583
+cluster 7 : 2283
+cluster 8 : 1062
+distortion : 4.94585

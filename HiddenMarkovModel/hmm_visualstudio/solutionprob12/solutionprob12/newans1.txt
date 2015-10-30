@@ -1,0 +1,40 @@
+ Iteration no: 1
+ reestimated probability prob1 : 2.84501e-027
+ Iteration no: 2
+ reestimated probability prob1 : 4.10679e-027
+ Iteration no: 3
+ reestimated probability prob1 : 5.03123e-027
+ Iteration no: 4
+ reestimated probability prob1 : 7.16769e-027
+ Iteration no: 5
+ reestimated probability prob1 : 2.22305e-026
+ Iteration no: 6
+ reestimated probability prob1 : 1.16757e-025
+ Iteration no: 7
+ reestimated probability prob1 : 2.74328e-025
+ Iteration no: 8
+ reestimated probability prob1 : 3.46059e-025
+ Iteration no: 9
+ reestimated probability prob1 : 3.63718e-025
+ Iteration no: 10
+ reestimated probability prob1 : 3.67406e-025
+ Iteration no: 11
+ reestimated probability prob1 : 3.6815e-025
+ Iteration no: 12
+ reestimated probability prob1 : 3.68299e-025
+ Iteration no: 13
+ reestimated probability prob1 : 3.68329e-025
+ Iteration no: 14
+ reestimated probability prob1 : 3.68335e-025
+ Iteration no: 15
+ reestimated probability prob1 : 3.68336e-025
+ Iteration no: 16
+ reestimated probability prob1 : 3.68336e-025
+ Iteration no: 17
+ reestimated probability prob1 : 3.68336e-025
+ Iteration no: 18
+ reestimated probability prob1 : 3.68336e-025
+ Iteration no: 19
+ reestimated probability prob1 : 3.68336e-025
+ Iteration no: 20
+ reestimated probability prob1 : 3.68336e-025

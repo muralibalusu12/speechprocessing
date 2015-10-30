@@ -1,0 +1,60 @@
+ Iteration no: 1
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 2
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 3
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 4
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 5
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 6
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 7
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 8
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 9
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 10
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 11
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 12
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 13
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 14
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 15
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 16
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 17
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 18
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 19
+ new pi: 
+1 0 0 0 0 
+ Iteration no: 20
+ new pi: 
+1 0 0 0 0 

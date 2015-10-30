@@ -1,0 +1,40 @@
+ Iteration no: 1
+solution to prob2 : 4.91379e-048
+ Iteration no: 2
+solution to prob2 : 1.78567e-027
+ Iteration no: 3
+solution to prob2 : 3.08975e-027
+ Iteration no: 4
+solution to prob2 : 3.73909e-027
+ Iteration no: 5
+solution to prob2 : 3.69165e-027
+ Iteration no: 6
+solution to prob2 : 6.82737e-027
+ Iteration no: 7
+solution to prob2 : 8.44359e-026
+ Iteration no: 8
+solution to prob2 : 2.5439e-025
+ Iteration no: 9
+solution to prob2 : 3.40681e-025
+ Iteration no: 10
+solution to prob2 : 3.62572e-025
+ Iteration no: 11
+solution to prob2 : 3.67174e-025
+ Iteration no: 12
+solution to prob2 : 3.68104e-025
+ Iteration no: 13
+solution to prob2 : 3.6829e-025
+ Iteration no: 14
+solution to prob2 : 3.68327e-025
+ Iteration no: 15
+solution to prob2 : 3.68335e-025
+ Iteration no: 16
+solution to prob2 : 3.68336e-025
+ Iteration no: 17
+solution to prob2 : 3.68336e-025
+ Iteration no: 18
+solution to prob2 : 3.68336e-025
+ Iteration no: 19
+solution to prob2 : 3.68336e-025
+ Iteration no: 20
+solution to prob2 : 3.68336e-025

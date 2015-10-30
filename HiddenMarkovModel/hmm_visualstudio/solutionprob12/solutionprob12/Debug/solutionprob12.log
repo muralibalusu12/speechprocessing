@@ -1,0 +1,37 @@
+﻿Build started 30-Oct-15 8:33:28 PM.
+     1>Project "C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\solutionprob12\solutionprob12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\solutionprob12.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt solutionprob12.cpp
+         solutionprob12.cpp
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(82): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(269): warning C4244: 'argument' : conversion from 'double' to 'const int', possible loss of data
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(486): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(489): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(490): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(494): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(501): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(505): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+     1>c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(508): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(461) : definition of 'i' ignored
+                 c:\users\murali raghu babu.b\documents\visual studio 2013\projects\solutionprob12\solutionprob12\solutionprob12.cpp(26) : definition of 'i' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\Debug\solutionprob12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\Debug\solutionprob12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\Debug\solutionprob12.lib" /MACHINE:X86 Debug\solutionprob12.obj
+         Debug\stdafx.obj
+         solutionprob12.vcxproj -> C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\Debug\solutionprob12.exe
+     1>Done Building Project "C:\Users\Murali Raghu Babu.B\Documents\Visual Studio 2013\Projects\solutionprob12\solutionprob12\solutionprob12.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.16
